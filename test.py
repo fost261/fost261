@@ -8,6 +8,6 @@ print("test1")
 print("test1")
 print("test1")
 print("test0")
-print("test0">|
+print("test0")
 print("test0")
 print("test0")
